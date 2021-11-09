@@ -5,7 +5,7 @@
 - Geographic analysis ratings (Federica)
 - Quantify how likely is that a restaurant closes (Francesco, Luca)
 - Prevent food infections based on bad reviews (Federica, Pau)
-- Which features of a restaurant are important for a good review (Pau, Luca)
+- Which features of a restaurant are important for a good review (Mattia, Pau, Luca)
 - Suggest new friends (Francesco, Federica)
 - Text analysis to predict ratings (Luca, Federica)
 - Recommender system (Pau, Francesco)
