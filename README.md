@@ -11,4 +11,5 @@ Questions:
 8. Suggest new friends (Francesco, Federica)
 9. Text analysis to predict ratings and topic analysis (Luca, Federica, Pau)
 10. Recommender system (Pau, Francesco)
+
 Dataset: https://www.yelp.com/dataset
